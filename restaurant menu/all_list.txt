@@ -1,0 +1,11 @@
+1 1 Dooogh 6000 0
+1 2 Noshabe 6000 0
+1 3 Watter 3000 0
+2 1 kobide 18000 5
+2 2 joooje 16000 4
+2 3 chenje 15000 3
+3 1 pitzza 70000 25
+3 2 Hanberger 45000 12
+3 3 Sandwich 16000 8
+4 1 tareme 16500 9
+4 2 shirodi 15000 7

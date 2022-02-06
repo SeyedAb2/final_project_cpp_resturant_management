@@ -1,0 +1,7 @@
+malek 1 1 Dooogh 6000 1 1 0 malek 
+malek 2 2 joooje 16000 1 1 4 malek 
+malek 3 1 pitzza 70000 1 1 25 malek 
+malek 4 2 shirodi 15000 1 1 7 abbas 
+abbas 1 1 Dooogh 6000 1 1 0 abbas 
+abbas 1 2 Noshabe 6000 1 1 0 abbas 
+abbas 3 3 Sandwich 16000 1 1 8 8 
